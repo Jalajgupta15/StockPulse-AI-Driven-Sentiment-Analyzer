@@ -61,6 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 Created by **Jalaj**.
 
----
-
-This README is designed to provide clear instructions and information for users and developers interested in your project!

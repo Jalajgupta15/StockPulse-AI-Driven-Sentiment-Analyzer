@@ -1,6 +1,3 @@
-**StockPulse: AI-Driven Sentiment Analyzer**:
-
----
 
 # StockPulse: AI-Driven Sentiment Analyzer
 

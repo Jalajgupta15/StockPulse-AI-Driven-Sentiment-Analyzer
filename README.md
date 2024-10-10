@@ -6,6 +6,16 @@
 
 ## Hosted Application
 Access the live application here: [StockPulse on Streamlit](https://studious-space-dollop-p54jxxw47gxc5r7-8501.app.github.dev/)
+![image](https://github.com/user-attachments/assets/8a7eba3b-b571-431d-a45e-fe436dde8419)
+![image](https://github.com/user-attachments/assets/5de96da8-688b-4d6f-8421-d508d1e82d10)
+![image](https://github.com/user-attachments/assets/16120bd8-5d9b-43be-a0aa-d4ebaec81fd2)
+![image](https://github.com/user-attachments/assets/456beffe-9e50-4562-a21f-6f94fb0d1672)
+
+## Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/11UWpXqEMlrnJXRnXT3qA2f177XuSCI5Z/view?usp=sharing)
+
+
+
 
 ## Features
 - **Real-Time Stock Data**: Fetches real-time stock price, including open, high, low, and volume information for any given stock ticker.

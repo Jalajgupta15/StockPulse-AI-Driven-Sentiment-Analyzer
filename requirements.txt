@@ -1,1 +1,6 @@
 streamlit
+requests
+pandas
+matplotlib
+numpy
+textblob

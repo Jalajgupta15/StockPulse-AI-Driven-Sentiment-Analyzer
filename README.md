@@ -5,7 +5,7 @@
 **StockPulse** is an AI-driven sentiment analysis application that helps users analyze stock market trends by combining historical stock data and sentiment analysis of relevant news articles. By using advanced techniques to analyze the latest news related to any stock ticker, this tool offers an insightful look into how current events might affect stock prices. The application is hosted on Streamlit for easy access.
 
 ## Hosted Application
-Access the live application here: [StockPulse on Streamlit](https://studious-space-dollop-p54jxxw47gxc5r7-8501.app.github.dev/)
+Access the live application here: [StockPulse on Streamlit](https://stockpulse-ai-driven-sentiment-analyzer-jg.streamlit.app/)
 ![image](https://github.com/user-attachments/assets/8a7eba3b-b571-431d-a45e-fe436dde8419)
 ![image](https://github.com/user-attachments/assets/5de96da8-688b-4d6f-8421-d508d1e82d10)
 ![image](https://github.com/user-attachments/assets/16120bd8-5d9b-43be-a0aa-d4ebaec81fd2)
